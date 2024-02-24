@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+}
+.bar ul{
+    list-style: none;
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+    color: black;
+}
+.bar ul li a{
+    text-decoration: none;
+    padding-left: 50px;
+    font-size: 20px;
+    color: black;
+}
+
+.bar ul li a :hover{
+    color:white
+}
+
+.hello{
+    text-align: center;
+    margin-top: 365px;
+}
+
+.hello h1{
+    font-size: 85px;
+}
+.hello button{
+    padding: 15px;
+    margin:20px;
+    background-color: #1d809f;
+    border: 1px #1d809f solid;
+    border-radius: 5px;
+    color: white;
+}
+.sen-but{
+    margin-top: 20px;
+}
+
+.second h2{
+    font-size: 27px;
+    margin-top: 90px;
+}
+
+.second button{
+    padding: 15px;
+    margin:20px;
+    background-color: black;
+    border: 1px black solid;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 95px;
+}
+
+.third p{
+    font-size: 10px;
+    margin-bottom: -10px;
+    color: #ecb807;
+}
