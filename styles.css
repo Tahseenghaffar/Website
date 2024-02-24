@@ -25,7 +25,8 @@ body{
 }
 
 .hello h1{
-    font-size: 85px;
+    font-size: 88px;
+    fond-weight: 700;
 }
 .hello button{
     padding: 15px;
